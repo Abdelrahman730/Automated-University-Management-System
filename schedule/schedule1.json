@@ -1,0 +1,4248 @@
+{
+	"CSCI101" : {
+		"CourseName" : "CSCI101 Computer Basics",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105333,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105444,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI201" : {
+		"CourseName" : "CSCI201 Introduction to programming",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			] 
+		}
+	},
+	"CSCI479": {
+		"CourseName" : "CSCI479 Intermediate programming",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : ["CSCI201"], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI205" : {
+		"CourseName" : "CSCI205 Computer System",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : ["CSCI201"], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI207" : {
+		"CourseName" : "CSCI207 Data structure",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : ["CSCI479"], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI221" : {
+		"CourseName" : "CSCI221 Logic design",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : ["CSCI479"], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"MKTG301" : {
+		"CourseName" : "MKTG301 Principels of Marketing",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+			
+		}
+	},
+	"ARUD325" : {
+		"CourseName" : "ARUD325 Spatial and Urban Dynamics",
+		"Credits" : 2,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+			
+		}
+	},
+	"CIEM221" : {
+		"CourseName" : "CIEM221 Engineering Materials-1",
+		"Credits" : 4,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CIEM312" : {
+		"CourseName" : "CIEM312 Soil Mechanics",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN427" : {
+		"CourseName" : "ECEN427 Operating Systems",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"IENG202" : {
+		"CourseName" : "ECEN427 Operations Research I",
+		"Credits" : 2,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"IENG322" : {
+		"CourseName" : "IENG322 Logistics and Supply Chain Management",
+		"Credits" : 2,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH301i" : {
+		"CourseName" : "MATH301i Linear Algebra",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG324" : {
+		"CourseName" : "MENG324 Signal Processing & Logic Design",
+		"Credits" : 4,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MKTG307" : {
+		"CourseName" : "MKTG307 Marketing Research",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI311" : {
+		"CourseName" : "CSCI311 Computer Architecture",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN432" : {
+		"CourseName" : "ECEN432 Introduction To Computer Architecture",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN305" : {
+		"CourseName" : "ECEN305 Introduction to Computer Systems",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BMD302" : {
+		"CourseName" : "BMD302 Clinical Informatics",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI451" : {
+		"CourseName" : "CSCI451 Digital Image Processing",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH003" : {
+		"CourseName" : "MATH003 Descriptive Geometry",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH101" : {
+		"CourseName" : "MATH101 Pre-Calculus",
+		"Credits" : 0,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG306" : {
+		"CourseName" : "MENG306 Kinematics and Dynamics of Mechanical Sys",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MOIT303" : {
+		"CourseName" : "MOIT303 E-business",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG514" : {
+		"CourseName" : "MENG514 Microprocessors and Microcontrollers",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MGMT201" : {
+		"CourseName" : "MGMT201 Fundamentals of Management",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH001" : {
+		"CourseName" : "MATH001 Analytical Geometry & Calculus I",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH211" : {
+		"CourseName" : "MATH211 Discrete Mathematics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MKTG306" : {
+		"CourseName" : "MKTG306 Sales Management",
+		"Credits" : 2,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI472" : {
+		"CourseName" : "CSCI472 Signal Processing",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"HUMA002" : {
+		"CourseName" : "HUMA002 Intro. To Ethics",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"BIO204" : {
+		"CourseName" : "BIO204 Histology",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"ARUD132" : {
+		"CourseName" : "ARUD132 History II - History of Architecture and urban",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD223" : {
+		"CourseName" : "ARUD223 Building Types: Places for People",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD355" : {
+		"CourseName" : "ARUD355 Construction III - Closing the building",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 13.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CIEM438" : {
+		"CourseName" : "CIEM438 Value & Risk Management in Construction",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI112" : {
+		"CourseName" : "CSCI112 intermediate Programming",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN527" : {
+		"CourseName" : "ECEN527 Software Engineering",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CHIN-101" : {
+		"CourseName" : "CHIN-101 Inntro. To Chinese Language",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"IENG314" : {
+		"CourseName" : "IENG314 CAD/CAM",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CIEM212" : {
+		"CourseName" : "CIEM212 Structural Analysis-2",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BMD212" : {
+		"CourseName" : "BMD212 Biomedical Data Acquisition",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BSAD490" : {
+		"CourseName" : "BSAD490 Selected Topics in Business",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI417" : {
+		"CourseName" : "CSCI417 Machine Intelligence",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH100" : {
+		"CourseName" : "MATH100 Pre-Calculus",
+		"Credits" : 0,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH112" : {
+		"CourseName" : "MATH112 Analytical Geometry & Calculus II",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD121" : {
+		"CourseName" : "ARUD121 Environment Behaviour Studies",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"ARUD374" : {
+		"CourseName" : "ARUD374 Landscape Architecture & Planning",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD479" : {
+		"CourseName" : "ARUD479 Sustainable heritage conservation",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"BMD102" : {
+		"CourseName" : "BMD102 Biochemistry",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"FINC303" : {
+		"CourseName" : "FINC303 Financial Statements Analysis",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"IENG-409" : {
+		"CourseName" : "IENG-409 Advanced Manufacturing Systems",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCE101B" : {
+		"CourseName" : "CSCE101B Computer & Info. Skills for Business",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG102" : {
+		"CourseName" : "MENG102 Engineering Mechanics II-Dynamics",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG510" : {
+		"CourseName" : "MENG510 Digital and Industrial Control Systems",
+		"Credits" : 2,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH103" : {
+		"CourseName" : "MATH103 Probability & Statistics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"PHY101" : {
+		"CourseName" : "PHY101 Physics",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Lab" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH201" : {
+		"CourseName" : "MATH201 Probability & Statistics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"OPMG302" : {
+		"CourseName" : "OPMG302 Quantitative Methods for Business",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CBIO202" : {
+		"CourseName" : "CBIO202 Introduction to Programming",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN371" : {
+		"CourseName" : "ECEN371 Fundamentals of Electromagnetics",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH210" : {
+		"CourseName" : "MATH210 Calculus III",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MGMT302" : {
+		"CourseName" : "MGMT302 Intro to Entrepreneurship & Small Busine",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"IENG305" : {
+		"CourseName" : "IENG305 Management Information Systems",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CSCI102" : {
+		"CourseName" : "CSCI102 Introduction to Programming",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH104" : {
+		"CourseName" : "MATH104 Linear Algebra",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ACCT202" : {
+		"CourseName" : "ACCT202 Managerial Accounting",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"SSCI-301" : {
+		"CourseName" : "SSCI-301 Project Management",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN454" : {
+		"CourseName" : "ECEN454 Analog and Digital Filters and Communications",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG201" : {
+		"CourseName" : "MENG201 Intro.to Solid Mechanics & Strength of Material",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true  ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG304" : {
+		"CourseName" : "MENG304 Thermodynamics I",
+		"Credits" : 3,
+		"Tutorial" : false ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"SSCI002-A" : {
+		"CourseName" : "SSCI002-A Research Methods",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CIEM314" : {
+		"CourseName" : "CIEM314 Reinforced Concrete Design-2",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN408" : {
+		"CourseName" : "ECEN408 Advanced Computer Architecture",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"PHYS001" : {
+		"CourseName" : "PHYS001 Physics I",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"PHYS002" : {
+		"CourseName" : "PHYS002 Physics II",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN313" : {
+		"CourseName" : "ECEN313 Signals and Systems",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG401" : {
+		"CourseName" : "MENG401 Mechanical Vibrations",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD101" : {
+		"CourseName" : "ARUD101 Design Studio I",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ARUD203" : {
+		"CourseName" : "ARUD203 Design Studio II",
+		"Credits" : 3,
+		"Tutorial" : true,
+		"Lab" : false ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BIO203" : {
+		"CourseName" : "BIO203 Genetics-I",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BMD001" : {
+		"CourseName" : "BMD001 Principles of Biology",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CIEM435" : {
+		"CourseName" : "CIEM435 Real Estate & Urban Planning & Infrastructure",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH002" : {
+		"CourseName" : "MATH002 Analytical Geometry & Calculus II",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG-401" : {
+		"CourseName" : "MENG-401 Itro. To Finite Elements in MENG",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG321" : {
+		"CourseName" : "MENG321 Electronic Devices and Applications",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"PHYS101C" : {
+		"CourseName" : "PHYS101C Physics I (ITCS)",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"HUMA102" : {
+		"CourseName" : "HUMA102 Intro. To Ethics",
+		"Credits" : 2,
+		"Tutorial" : true ,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"BSAD401" : {
+		"CourseName" : "BSAD401 Business Law",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CHEM001" : {
+		"CourseName" : "CHEM001 Chemical Principles",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CIEM321" : {
+		"CourseName" : "CIEM321 Engineering Materials-2",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN521" : {
+		"CourseName" : "ECEN521 Embedded Systems Engineering",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true ,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG344" : {
+		"CourseName" : "MENG344 Fluid Mechanics II",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BSAD301" : {
+		"CourseName" : "BSAD301 Business Ethics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH301" : {
+		"CourseName" : "MATH301 Linear Algebra",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH112i" : {
+		"CourseName" : "MATH112i Calculus II",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECEN510" : {
+		"CourseName" : "ECEN510 Introduction to Optical Communication System",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECON203" : {
+		"CourseName" : "ECON203 Managerial Economics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 2,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"IENG232" : {
+		"CourseName" : "IENG232 Work System Analysis and Design",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG302" : {
+		"CourseName" : "MENG302 Mechanics II - Rigid Body Dynamics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"BMD101" : {
+		"CourseName" : "BMD101 Biology",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 1,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"CIEM332" : {
+		"CourseName" : "CIEM332 Quantity Surveying,Estimation &Specifications",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"ECON202" : {
+		"CourseName" : "ECON202 Microeconomics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MATH205" : {
+		"CourseName" : "MATH205 Differential Equations",
+		"Credits" : 4,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG421" : {
+		"CourseName" : "MENG421 Automatic Control Systems",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 9.5,
+					"End" : 11.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"MENG516" : {
+		"CourseName" : "MENG516 Advanced Mechatronics",
+		"Credits" : 3,
+		"Tutorial" : true ,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			],
+			"Tutorial" : [{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 191001001,
+					"Seats" : 30
+				},
+				{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 30
+				}
+			]
+		}
+	},
+	"PSCI-201" : {
+		"CourseName" : "PSCI-201 Intro. Tto Political Science",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"ARTS201" : {
+		"CourseName" : "ARTS201 Intro. To Photography",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"SSCI001" : {
+		"CourseName" : "SSCI001 ST in Social Sciences (Leadership)",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"SPAN101" : {
+		"CourseName" : "SPAN101 Intro. to Spanish Language",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : false,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 5,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19100101,
+					"Seats" : 60
+				}
+			]
+		}
+	}
+}
