@@ -1,0 +1,128 @@
+IP: ::1 - February 5, 2022, 7:05 am
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 7:23 am
+Attempt: has succesfully added new account Test1
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 7:25 am
+Attempt: has succesfully edit 'Test1' account data
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 7:25 am
+Attempt: has succesfully loged in
+User: Test1
+-------------------------
+IP: ::1 - February 5, 2022, 7:50 am
+Attempt: has succesfully loged in
+User: Test1
+-------------------------
+IP: ::1 - February 5, 2022, 7:51 am
+Attempt: has succesfully loged in
+User: Test1
+-------------------------
+IP: ::1 - February 5, 2022, 7:53 am
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 7:53 am
+Attempt: has succesfully added new account Test2
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 7:54 am
+Attempt: has succesfully edit 'Test2' account data
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 7:54 am
+Attempt: has succesfully loged in
+User: Test2
+-------------------------
+IP: ::1 - February 5, 2022, 7:57 am
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 8:47 am
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 12:24 pm
+Attempt: has succesfully droped courses
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 12:24 pm
+Attempt: has succesfully registered courses
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 12:25 pm
+Attempt: has succesfully loged in
+User: Ma.Aly@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:28 pm
+Attempt: has succesfully loged in
+User: Ma.Aly@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:28 pm
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 12:28 pm
+Attempt: entered invalid email or password
+User: Ma.Aly@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:29 pm
+Attempt: has succesfully loged in
+User: Ma.Aly@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:32 pm
+Attempt: has succesfully loged in
+User: Ma.Aly@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:33 pm
+Attempt: entered invalid email or password
+User: Ahmed Dahy
+-------------------------
+IP: ::1 - February 5, 2022, 12:33 pm
+Attempt: has succesfully loged in
+User: A.Dahy@nu.edu.eg
+-------------------------
+IP: ::1 - February 5, 2022, 12:39 pm
+Attempt: has succesfully registered courses
+User: "A.Dahy@nu.edu.eg"
+-------------------------
+IP: ::1 - February 5, 2022, 12:39 pm
+Attempt: has succesfully loged in
+User: Test1
+-------------------------
+IP: ::1 - February 5, 2022, 1:10 pm
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 1:11 pm
+Attempt: has succesfully droped courses
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 1:11 pm
+Attempt: has succesfully registered courses
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 1:12 pm
+Attempt: has succesfully loged in
+User: Test1
+-------------------------
+IP: ::1 - February 5, 2022, 1:13 pm
+Attempt: has succesfully loged in
+User: Test2
+-------------------------
+IP: ::1 - February 5, 2022, 1:14 pm
+Attempt: has succesfully loged in
+User: admin
+-------------------------
+IP: ::1 - February 5, 2022, 1:14 pm
+Attempt: has succesfully added new account urgf@nu.edu.eg
+User: "admin"
+-------------------------
+IP: ::1 - February 5, 2022, 1:15 pm
+Attempt: has succesfully edit 'urgf@nu.edu.eg' account data
+User: "admin"
+-------------------------

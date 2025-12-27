@@ -1,0 +1,345 @@
+{
+	"CSCI315" : {
+		"CourseName" : "CSCI101 Operating systems",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI305" : {
+		"CourseName" : "CSCI305 Database systems",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105222,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 4,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI417" : {
+		"CourseName" : "CSCI417 Machine Int",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 11.5,
+					"End" : 13.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105666,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI451" : {
+		"CourseName" : "CSCI451 Digital Image processing",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI419" : {
+		"CourseName" : "CSCI419 Theory of computing",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 2,
+					"Start" : 13.5,
+					"End" : 15.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"MATH210" : {
+		"CourseName" : "MATH210 Calc 3",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 14.5,
+					"End" : 16.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 5,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				}
+			]
+		}
+	},
+	"CSCI462" : {
+		"CourseName" : "CSCI462 Computet networks",
+		"Credits" : 3,
+		"Tutorial" : false,
+		"Lab" : true,
+		"prerequisites" : [], "CourseData" : {
+			"Lecture" : [{
+					"Day" : 1,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				},
+				{
+					"Day" : 1,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105111,
+					"Seats" : 60
+				}
+			],
+			"Lab" : [{
+					"Day" : 3,
+					"Start" : 8.5,
+					"End" : 10.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 4,
+					"Start" : 12.5,
+					"End" : 14.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				},
+				{
+					"Day" : 2,
+					"Start" : 10.5,
+					"End" : 12.5,
+					"Insturctor" : 19105555,
+					"Seats" : 60
+				}
+			]
+		}
+	}
+}
